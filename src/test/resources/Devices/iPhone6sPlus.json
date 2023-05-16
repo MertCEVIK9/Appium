@@ -1,0 +1,15 @@
+{
+  "platformName": "iOS",
+  "appium:platformVersion": "15.5",
+  "appium:deviceName": "iPhone 6s Plus",
+  "appium:udid": "1af5ab2340712f97f8fa27f21de6ae0e7bc517ed",
+  "appium:no-reset": true,
+  "appium:full-reset": false,
+  "appium:automationName": "XCUItest",
+  "appium:bundleId": "com.turkcell.akillidepo",
+  "appium:xcodeOrgId": "UN387YR4V8",
+  "appium:xcodeSigningId": "iPhone Developer",
+  "appium:includeSafariInWebviews": true,
+  "appium:newCommandTimeout": 3600,
+  "appium:connectHardwareKeyboard": true
+}

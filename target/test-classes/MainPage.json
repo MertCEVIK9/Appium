@@ -1,0 +1,13 @@
+
+{
+  "Login": "//XCUIElementTypeButton[@name='Login']",
+  "Back": "//XCUIElementTypeButton[@name='  Back']",
+  "Let's Start Using Lifebox": "//XCUIElementTypeButton[@name='Let’s start using lifebox']",
+  "Navigation Bar Back": "//XCUIElementTypeButton[@name='navigationBarBack']",
+  "Header Settings": "//XCUIElementTypeButton[@name='NavigationHeaderButtonSettings']",
+  "Log Out": "(//XCUIElementTypeButton[@name=\"Logout\"])[2]",
+  "OK": "//XCUIElementTypeButton[@name=\"OK\"]",
+  "UserNameXPath": "//XCUIElementTypeApplication[@name=\"lifebox\"]/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeTextField",
+  "PassWordXPath": "//XCUIElementTypeApplication[@name=\"lifebox\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[3]",
+  "AutoSync": "(//XCUIElementTypeSwitch[@name=\"Auto Sync\"])[1]"
+}
